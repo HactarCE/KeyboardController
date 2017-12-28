@@ -74,7 +74,7 @@ namespace KeyboardController
 		{
 			if (e.Mode == PowerModes.Resume)
 			{
-				Task.Delay(1000).ContinueWith(_ => activeProfile.fadeFromBlack());
+				Task.Delay(3000).ContinueWith(_ => activeProfile.fadeFromBlack());
 			}
 		}
 
