@@ -1,16 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using CUE.NET.Devices.Generic.Enums;
-using CUE.NET.Devices.Keyboard;
 using System.Runtime.InteropServices;
 using CUE.NET.Groups;
 using CUE.NET.Brushes;
 using System.Drawing;
-using System.Diagnostics;
-using CUE.NET;
 using NAudio.CoreAudioApi;
 
 namespace KeyboardController.Default

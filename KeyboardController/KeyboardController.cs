@@ -1,18 +1,14 @@
 ﻿using CUE.NET;
 using CUE.NET.Devices;
 using CUE.NET.Devices.Generic.Enums;
-using CUE.NET.Devices.Keyboard;
 using CUE.NET.Groups;
 using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
 using System.Runtime.InteropServices;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace KeyboardController
 {
@@ -27,6 +23,7 @@ namespace KeyboardController
 			new Default.Default(),
 			new Factorio.Factorio(),
 			new Spengi.Spengi(),
+			new Tis100.Tis100(),
 		};
 
 		public static void Main(string[] args)

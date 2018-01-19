@@ -1,11 +1,4 @@
-﻿using CUE.NET;
-using CUE.NET.Devices.Keyboard;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using CUE.NET.Devices.Generic.Enums;
 using KeyboardController.Default;
 using System.Drawing;

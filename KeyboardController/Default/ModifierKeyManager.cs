@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Linq;
 using CUE.NET.Devices.Generic.Enums;
-using CUE.NET.Gradients;
 using CUE.NET.Brushes;
 using System.Drawing;
 using CUE.NET.Groups;

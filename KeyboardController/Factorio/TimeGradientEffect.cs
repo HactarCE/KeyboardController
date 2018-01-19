@@ -1,11 +1,6 @@
 ﻿using CUE.NET.Brushes;
 using CUE.NET.Effects;
 using CUE.NET.Gradients;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace KeyboardController.Factorio
 {

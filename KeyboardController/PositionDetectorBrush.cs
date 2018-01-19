@@ -1,9 +1,4 @@
 ﻿using CUE.NET.Brushes;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using CUE.NET.Devices.Generic;
 using System.Drawing;
 using System.Diagnostics;

@@ -5,8 +5,6 @@ using System.Diagnostics;
 using CUE.NET.Exceptions;
 using CUE.NET.Devices.Generic.Enums;
 using System.Drawing;
-using CUE.NET.Devices.Keyboard.Enums;
-using System.Threading;
 using CUE.NET.Groups;
 using CUE.NET.Brushes;
 using CUE.NET.Input;
