@@ -2,6 +2,7 @@
 using CUE.NET.Devices;
 using CUE.NET.Devices.Generic.Enums;
 using CUE.NET.Groups;
+using KeyboardController.Profiles;
 using Microsoft.Win32;
 using System;
 using System.Collections.Generic;

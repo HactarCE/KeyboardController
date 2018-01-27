@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Diagnostics;
 using CUE.NET.Devices.Generic.Enums;
 
-namespace KeyboardController
+namespace KeyboardController.Brushes
 {
 	class PositionDetectorBrush : SolidColorBrush
 	{

@@ -6,6 +6,7 @@ using System.Drawing;
 using CUE.NET.Gradients;
 using CUE.NET.Devices.Generic;
 using KeyboardController.KeyManagers;
+using KeyboardController.Effects;
 
 namespace KeyboardController.Profiles
 {

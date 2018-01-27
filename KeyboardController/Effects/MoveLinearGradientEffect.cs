@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KeyboardController
+namespace KeyboardController.Effects
 {
 	class MoveLinearGradientEffect : AbstractBrushEffect<IGradientBrush>
 	{

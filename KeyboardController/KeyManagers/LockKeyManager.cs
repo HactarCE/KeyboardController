@@ -5,6 +5,7 @@ using CUE.NET.Groups;
 using CUE.NET.Brushes;
 using System.Drawing;
 using NAudio.CoreAudioApi;
+using KeyboardController.Profiles;
 
 namespace KeyboardController.KeyManagers
 {

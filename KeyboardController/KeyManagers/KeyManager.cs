@@ -1,4 +1,5 @@
 ﻿using CUE.NET.Devices.Generic.Enums;
+using KeyboardController.Profiles;
 
 namespace KeyboardController.KeyManagers
 {

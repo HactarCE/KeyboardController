@@ -16,7 +16,7 @@ using CUE.NET.Input.Enums;
 using System.Collections.Generic;
 using CUE.NET.Input.EventArgs;
 
-namespace KeyboardController
+namespace KeyboardController.Profiles
 {
 	abstract class Profile
 	{

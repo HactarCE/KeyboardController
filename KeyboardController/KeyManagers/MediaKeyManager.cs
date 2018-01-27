@@ -4,6 +4,8 @@ using CUE.NET.Groups;
 using CUE.NET.Effects;
 using CUE.NET.Gradients;
 using System.Drawing;
+using KeyboardController.Profiles;
+using KeyboardController.Effects;
 
 namespace KeyboardController.KeyManagers
 {
