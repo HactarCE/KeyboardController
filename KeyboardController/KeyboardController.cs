@@ -21,10 +21,11 @@ namespace KeyboardController
 
 		private static Profile[] Profiles =
 		{
-			new Profiles.Default(),
-			new Profiles.Factorio(),
-			new Profiles.Spengi(),
-			new Profiles.Tis100(),
+			new Default(),
+			new Factorio(),
+			new Spengi(),
+			new StickFight(),
+			new Tis100(),
 		};
 
 		public static void Main(string[] args)
