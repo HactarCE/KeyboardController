@@ -3,7 +3,7 @@ using CUE.NET.Groups;
 using CUE.NET.Brushes;
 using System.Drawing;
 
-namespace KeyboardController.Default
+namespace KeyboardController.KeyManagers
 {
 	class SpecialKeyManager : KeyManager
 	{

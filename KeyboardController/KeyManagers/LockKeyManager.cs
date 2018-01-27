@@ -6,7 +6,7 @@ using CUE.NET.Brushes;
 using System.Drawing;
 using NAudio.CoreAudioApi;
 
-namespace KeyboardController.Default
+namespace KeyboardController.KeyManagers
 {
 	class LockKeyManager : KeyManager
 	{

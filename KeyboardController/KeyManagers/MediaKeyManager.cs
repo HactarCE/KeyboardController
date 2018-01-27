@@ -5,7 +5,7 @@ using CUE.NET.Effects;
 using CUE.NET.Gradients;
 using System.Drawing;
 
-namespace KeyboardController.Default
+namespace KeyboardController.KeyManagers
 {
 	class MediaKeyManager : KeyManager
 	{

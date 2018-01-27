@@ -2,7 +2,7 @@
 using CUE.NET.Effects;
 using CUE.NET.Gradients;
 
-namespace KeyboardController.Factorio
+namespace KeyboardController.Effects
 {
 	class TimeGradientEffect : AbstractBrushEffect<SolidColorBrush>
 	{

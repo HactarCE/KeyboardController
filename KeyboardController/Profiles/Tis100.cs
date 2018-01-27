@@ -2,9 +2,9 @@
 using CUE.NET.Devices.Generic.Enums;
 using System.Diagnostics;
 using CUE.NET.Brushes;
-using KeyboardController.Default;
+using KeyboardController.KeyManagers;
 
-namespace KeyboardController.Tis100
+namespace KeyboardController.Profiles
 {
 	class Tis100 : Profile
 	{
@@ -15,11 +15,14 @@ namespace KeyboardController.Tis100
 		{
 			base.Init();
 			AllKeys = AddGroup(Keyboard.Leds);
+			KeyManagers.Add(new MediaKeyManager());
+			ListLedGroup FlashyKeysGroup = AddFlashyKeysGroup();
 			KeyManagers.Add(new TypeFlashKeyManager()
 			{
-				AppliedKeys = Keyboard.Leds,
+				AppliedKeys = FlashyKeysGroup.GetLeds(),
 				FlashColor = FromArgb(0xFFFFFFFF),
 			});
+			KeyManagers.Add(new ModifierKeyManager());
 		}
 
 		public override void Start()

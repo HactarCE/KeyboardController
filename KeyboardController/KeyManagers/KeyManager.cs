@@ -1,6 +1,6 @@
 ﻿using CUE.NET.Devices.Generic.Enums;
 
-namespace KeyboardController.Default
+namespace KeyboardController.KeyManagers
 {
 	abstract class KeyManager
 	{

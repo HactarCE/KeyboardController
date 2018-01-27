@@ -11,7 +11,7 @@ using CUE.NET.Input;
 using CUE.NET.Gradients;
 using CUE.NET.Effects;
 using CUE.NET.Devices.Generic;
-using KeyboardController.Default;
+using KeyboardController.KeyManagers;
 using CUE.NET.Input.Enums;
 using System.Collections.Generic;
 using CUE.NET.Input.EventArgs;

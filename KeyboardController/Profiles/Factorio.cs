@@ -1,13 +1,14 @@
 ﻿using System.Diagnostics;
 using CUE.NET.Devices.Generic.Enums;
-using KeyboardController.Default;
+using KeyboardController.KeyManagers;
 using System.Drawing;
 using CUE.NET.Brushes;
 using CUE.NET.Groups;
 using CUE.NET.Effects;
 using CUE.NET.Gradients;
+using KeyboardController.Effects;
 
-namespace KeyboardController.Factorio
+namespace KeyboardController.Profiles
 {
 	class Factorio : Profile
 	{

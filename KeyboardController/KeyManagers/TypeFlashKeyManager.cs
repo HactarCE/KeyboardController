@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 
-namespace KeyboardController.Default
+namespace KeyboardController.KeyManagers
 {
 	class TypeFlashKeyManager : KeyManager
 	{

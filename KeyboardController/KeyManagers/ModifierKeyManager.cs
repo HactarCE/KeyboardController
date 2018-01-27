@@ -5,7 +5,7 @@ using System.Drawing;
 using CUE.NET.Groups;
 using CUE.NET.Effects;
 
-namespace KeyboardController.Default
+namespace KeyboardController.KeyManagers
 {
 	class ModifierKeyManager : KeyManager
 	{

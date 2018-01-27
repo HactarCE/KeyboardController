@@ -1,12 +1,12 @@
 ﻿using System.Diagnostics;
 using CUE.NET.Devices.Generic.Enums;
 using CUE.NET.Groups;
-using KeyboardController.Default;
+using KeyboardController.KeyManagers;
 using CUE.NET.Brushes;
-using KeyboardController.Factorio;
 using CUE.NET.Gradients;
+using KeyboardController.Effects;
 
-namespace KeyboardController.Spengi
+namespace KeyboardController.Profiles
 {
 	class Spengi : Profile
 	{

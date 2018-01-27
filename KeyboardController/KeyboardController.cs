@@ -20,10 +20,10 @@ namespace KeyboardController
 
 		private static Profile[] Profiles =
 		{
-			new Default.Default(),
-			new Factorio.Factorio(),
-			new Spengi.Spengi(),
-			new Tis100.Tis100(),
+			new Profiles.Default(),
+			new Profiles.Factorio(),
+			new Profiles.Spengi(),
+			new Profiles.Tis100(),
 		};
 
 		public static void Main(string[] args)

@@ -4,10 +4,10 @@ using CUE.NET.Brushes;
 using CUE.NET.Groups;
 using System.Drawing;
 using CUE.NET.Gradients;
-using CUE.NET.Effects;
 using CUE.NET.Devices.Generic;
+using KeyboardController.KeyManagers;
 
-namespace KeyboardController.Default
+namespace KeyboardController.Profiles
 {
 	class Default : Profile
 	{
